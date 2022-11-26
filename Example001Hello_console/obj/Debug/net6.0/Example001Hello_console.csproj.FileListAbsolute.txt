@@ -1,0 +1,15 @@
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\obj\Debug\net6.0\Example001Hello_console.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\obj\Debug\net6.0\Example001Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\bin\Debug\net6.0\Example001Hello_console.exe
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\bin\Debug\net6.0\Example001Hello_console.deps.json
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\bin\Debug\net6.0\Example001Hello_console.runtimeconfig.json
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\bin\Debug\net6.0\Example001Hello_console.dll
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\bin\Debug\net6.0\Example001Hello_console.pdb
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\obj\Debug\net6.0\Example001Hello_console.AssemblyInfoInputs.cache
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\obj\Debug\net6.0\Example001Hello_console.AssemblyInfo.cs
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\obj\Debug\net6.0\Example001Hello_console.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\obj\Debug\net6.0\Example001Hello_console.dll
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\obj\Debug\net6.0\refint\Example001Hello_console.dll
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\obj\Debug\net6.0\Example001Hello_console.pdb
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\obj\Debug\net6.0\Example001Hello_console.genruntimeconfig.cache
+C:\Users\Макс\Desktop\GeekBrains\С# lecture one\Example001Hello_console\obj\Debug\net6.0\ref\Example001Hello_console.dll
